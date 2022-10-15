@@ -79,7 +79,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements ##
 
 Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
-You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">this link</a>
+You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">This Link</a>
 
 ## :checkered_flag: Starting ##
 
