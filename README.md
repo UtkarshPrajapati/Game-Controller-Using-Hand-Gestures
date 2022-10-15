@@ -43,17 +43,21 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 
 ## :dart: How To Use ##
 
-### Basic Interface:-
-### TO BE UPDATED
-![Basic Interface](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
+### Basic Interface of Window:-
+### TO BE UPDATED TOMORROW
+![Basic Interface of Window](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
 
-### Moving Cursor with Index Finger Movement:-
-### TO BE UPDATED
-![Moving Cursor with Index Finger Movement](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
+### Applying Accelerator:-
+### TO BE UPDATED TOMORROW
+![Applying Accelerator](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
 
-### Clicking on Screen(By touching Thumb & Little Finger):-
-### TO BE UPDATED
-![Clicking on Screen](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
+### Applying Brakes:-
+### TO BE UPDATED TOMORROW
+![Applying Brakes](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
+
+### Playing the Game:-
+### TO BE UPDATED TOMORROW
+![Playing the Game](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
 
 
 ## :sparkles: Features ##
@@ -75,6 +79,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements ##
 
 Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
+You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">this link</a>
 
 ## :checkered_flag: Starting ##
 
