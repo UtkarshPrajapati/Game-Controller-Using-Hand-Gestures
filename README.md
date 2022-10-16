@@ -94,7 +94,7 @@ $ cd Game-Controller-Using-Hand-Gestures
 $ pip install -r requirements.txt
 
 # Run the project
-$ jupyter nbconvert --execute Game Controller.ipynb
+$ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
 
 ```
 
