@@ -45,7 +45,9 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 
 ### Basic Interface of Window:-
 ### TO BE UPDATED TOMORROW
-![Basic Interface of Window](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/6b85122436aa3ecfd90b64133dc53c94bafa17a4/images/Basic%20Interface%20Introduction.png)
+
+
+![Basic Interface of Window](https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4)
 
 ### Applying Accelerator:-
 ### TO BE UPDATED TOMORROW
