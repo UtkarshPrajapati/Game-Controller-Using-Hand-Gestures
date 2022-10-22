@@ -44,13 +44,12 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
-
+![Basic Interface of Window](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
 
 ### Applying Accelerator:-
-![Applying Accelerator](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
+
 
 ### Applying Brakes:-
-### TO BE UPDATED TOMORROW
 ![Applying Brakes](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
 
 ### Playing the Game:-
