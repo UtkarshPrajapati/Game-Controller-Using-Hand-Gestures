@@ -45,9 +45,6 @@ I have made a Hill Climb Racing Game Controller. The game runs as we move our ha
 
 ### Basic Interface of Window:-
 
-https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4
-
-
 
 ### Applying Accelerator:-
 ![Applying Accelerator](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Moving%20Cursor%20Demo.gif)
@@ -57,8 +54,7 @@ https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-
 ![Applying Brakes](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
 
 ### Playing the Game:-
-### TO BE UPDATED TOMORROW
-![Playing the Game](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/844c0a68673a55d05d086aa468ce7aa6e43eb129/media/Clicking%20on%20Screen.gif)
+https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4
 
 
 ## :sparkles: Features ##
