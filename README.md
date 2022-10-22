@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-
 
 :heavy_check_mark: Uses Open Computer Vision (OpenCV)\
 :heavy_check_mark: Tracks hands and Finger Tips Efficiently\
-:heavy_check_mark: Moves the cursor according to the gesture as shown in below GIFs. \
+:heavy_check_mark: Moves the vehicle according to hand gestures. \
 :heavy_check_mark: Can operate Hill Climb Racing game without touching the laptop.
 
 ## :rocket: Technologies ##
